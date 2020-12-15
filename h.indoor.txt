@@ -2,3 +2,5 @@ carrom
 stories
 writing
 baking
+singing
+dancing
